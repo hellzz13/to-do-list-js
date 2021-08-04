@@ -1,0 +1,23 @@
+body{
+  font-family: sans-serif;
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+  
+}
+.container > h1{
+  text-align: center;
+}
+#newTask {
+  height: 20px;
+  width: 80%;
+}
+
+button {
+  height: 30px;
+  background-color: cornflowerblue;
+  color: white;
+  font-size: 1.2rem;
+  border: none;
+}
